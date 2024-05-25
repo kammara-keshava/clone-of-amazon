@@ -1,0 +1,1 @@
+Welcome to the Amazon Clone Project! This repository contains the source code for a full-stack web application that mimics the core functionalities of Amazon, one of the largest e-commerce platforms. The application includes features such as user authentication, product listing, shopping cart, order processing, and more.
